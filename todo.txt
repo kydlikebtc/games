@@ -1,0 +1,37 @@
+# Lobby Service Test Cases Todo List
+
+## User Management
+- [x] UserService.findOne
+- [x] UserService.create
+- [x] UserController.findOne
+- [x] UserController.create
+
+## Room Management
+- [x] RoomService.findAll
+- [x] RoomService.findOne
+- [x] RoomService.create
+- [x] RoomService.join
+- [x] RoomService.leave
+- [x] RoomController.findAll
+- [x] RoomController.findOne
+- [x] RoomController.create
+- [x] RoomController.join
+- [x] RoomController.leave
+
+## Transaction Processing
+- [x] TransactionService.findByUserId
+- [x] TransactionService.create
+- [x] TransactionService.updateStatus
+- [x] TransactionController.findByUserId
+- [x] TransactionController.create
+- [x] TransactionController.updateStatus
+
+## Chat Functionality
+- [x] ChatService.findByRoomId
+- [x] ChatService.create
+- [x] ChatService.deleteByRoomId
+- [x] ChatController.findByRoomId
+- [x] ChatController.create
+- [x] ChatController.deleteByRoomId
+
+Total test cases to implement: 24
